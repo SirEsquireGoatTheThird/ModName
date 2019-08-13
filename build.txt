@@ -1,0 +1,3 @@
+displayName = ModName
+author = Erik P. & Carlos L.
+version = 0.1
